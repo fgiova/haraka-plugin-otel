@@ -1,10 +1,10 @@
 # @fgiova/haraka-otel
 [![NPM version](https://img.shields.io/npm/v/@fgiova/haraka-otel.svg?style=flat)](https://www.npmjs.com/package/@fgiova/haraka-otel)
-[![CI workflow](https://github.com/fgiova/haraka-otel/actions/workflows/node.js.yml/badge.svg)](https://github.com/fgiova/haraka-otel/actions/workflows/node.js.yml)
+[![CI workflow](https://github.com/fgiova/haraka-plugin-otel/actions/workflows/node.js.yml/badge.svg)](https://github.com/fgiova/haraka-plugin-otel/actions/workflows/node.js.yml)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
 [![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)
-[![Maintainability](https://qlty.sh/badges/fgiova/haraka-otel/maintainability.svg)](https://qlty.sh/gh/fgiova/projects/haraka-otel)
-[![Code Coverage](https://qlty.sh/badges/fgiova/haraka-otel/test_coverage.svg)](https://qlty.sh/gh/fgiova/projects/haraka-otel)
+[![Maintainability](https://qlty.sh/gh/fgiova/projects/haraka-plugin-otel/maintainability.svg)](https://qlty.sh/gh/fgiova/projects/haraka-plugin-otel)
+[![Code Coverage](https://qlty.sh/gh/fgiova/projects/haraka-plugin-otel/coverage.svg)](https://qlty.sh/gh/fgiova/projects/haraka-plugin-otel)
 
 OpenTelemetry tracing and metrics plugin for [Haraka](https://haraka.github.io/) SMTP server.
 
