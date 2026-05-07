@@ -1,0 +1,11 @@
+node_modules
+dist
+.tap
+.nyc_output
+coverage
+*.log
+.DS_Store
+.idea
+.vscode
+/CLAUDE.md
+/.claude/
